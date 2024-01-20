@@ -15,3 +15,9 @@
 
 ![Adinath's Graph](https://github-readme-activity-graph.vercel.app/graph?username=adinathmahangare&custom_title=Adinath's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="[https://twitter.com/gautamkrishnar](https://twitter.com/adimahangare)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/gautamkrishnar](https://www.linkedin.com/in/adinath-mahangare-0b211b1b8/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="[https://instagram.com/gautamkrishnar](https://www.instagram.com/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
