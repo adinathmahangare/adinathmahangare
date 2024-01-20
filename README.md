@@ -1,16 +1,17 @@
-### Hi there 👋
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<h1 align="center">Hi 👋, I'm Adinath Mahangare</h1>
+<h3 align="center">A software developer from India</h3>
 
-<!--
-**adinathmahangare/adinathmahangare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adinathmahangare&theme=midnight-purple)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br><br>
+
+<h3 align="left">Activity:</h3>
+
+![Adinath's Graph](https://github-readme-activity-graph.vercel.app/graph?username=adinathmahangare&custom_title=Adinath's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
