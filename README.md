@@ -19,7 +19,7 @@
 
 <br><br>
 ## snake eating my contribution graph
-![snake gif](https://github.com/adinathmahangare/adinathmahangare/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/adinathmahangare/adinathmahangare/blob/output/github-contribution-grid-snake-dark.svg)
 <br><br>
 
 <!--📏LINE-->
