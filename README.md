@@ -36,7 +36,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--Languages and Tools-->
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="center">
 <img src="./assets/c.png" width="60">
 <img src="./assets/cpp.png" width="60">
@@ -59,6 +59,6 @@
 <!--Connect with me-->
 <h3 align="left">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/adimahangare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/adinath-mahangare-0b211b1b8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ad.914/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a></p>
+<a href="https://twitter.com/adimahangare" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adimahangare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adinath-mahangare-0b211b1b8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adinath-mahangare-0b211b1b8" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_ad.914/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_ad.914" height="30" width="40" /></a></p>
