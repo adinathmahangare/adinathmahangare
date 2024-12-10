@@ -1,8 +1,20 @@
 
 <!--MasterHead-->
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Adinath Mahangare</h1>
-<h3 align="center">A software developer from India</h3>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<a href="https://github.com/adinathmahangare/adinathmahangare">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Slide2.PNG">
+    <img alt="Andrew Grant's GitHub Profile README" src="Slide1.PNG">
+  </picture>
+</a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="center"> ☁️ DevOps Engineer | 🔒 MERN Developer | 🚀 Machine Learning Enthusiast </h3>
 <p align = "Center">Highly motivated Software Developer with a degree in computer engineering from a prestigious institution in India. Equipped with strong logical reasoning, I am driven by results and committed to continuous learning. My goal is to leverage my theoretical knowledge and practical skills to contribute to cutting-edge projects and collaborate with experienced professionals. My ability to follow and learn trending standards of the industry, coupled with perseverance and problem-solving proficiency, enables me to adapt quickly and excel in dynamic work environments. I would love to secure an instrumental role in the tech industry, driven by a passion for learning and a commitment to adopting emerging technologies. My disciplined determination, combined with creativity, ensures I make efficient and impactful contributions to the company.</p>
 
 <br><br>
