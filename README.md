@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adinath-mahangare/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/adinathm7/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://x.com/adimahangare" target="_blank"><img src="https://img.shields.io/twitter/follow/:user" alt="Twitter"></a>
+<a href="https://x.com/adimahangare" target="_blank"><img src="https://img.shields.io/twitter/follow/adimahangare" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/83gdkl8s76ryshcbdx4hda60g?si=yx2onNgbR1-n1lqBTEhIxQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://portfolio-adinath.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
   
@@ -63,7 +63,13 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+<div align="center">
+  <a href="https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N?si=CpguileYToS0E9Eywyp34Q">
+    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
