@@ -63,9 +63,9 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
+<h3 align="left">Now Plying</h3>
 <div align="center">
-  <a href="https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N?si=CpguileYToS0E9Eywyp34Q">
+  <a href="https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG?si=qn3fxdP-Qiu-KW5vPbe-Ew">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify">
   </a>
 </div>
